@@ -25,4 +25,4 @@ start:
 debug-start:
 	$(DEBUG_OUTPUT_PATH)/$(APPLICATION_NAME)
 
-.PHONY: build debug-build clean start
+.PHONY: build debug-build clean start debug-start
